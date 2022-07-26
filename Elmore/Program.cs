@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Elmore.Vista;
+using Elmore.Modelo;
+using Elmore.Contolador;
 
 namespace Elmore
 {
@@ -10,6 +13,12 @@ namespace Elmore
     {
         public static void Main(string[] args)
         {
+
+        }
+
+        public void Jugador()
+        {
+            Console.WriteLine("");
         }
     }
 }
